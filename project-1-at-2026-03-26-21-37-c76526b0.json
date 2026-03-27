@@ -1,0 +1,1002 @@
+[
+{
+  "still": "\/data\/upload\/1\/6d7f14af-Star-Wars-Revenge-of-the-Sith-065.jpg",
+  "id": 1,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 1,
+  "created_at": "2026-03-26T21:14:29.888063Z",
+  "updated_at": "2026-03-26T21:14:29.888089Z",
+  "lead_time": 6.267
+},
+{
+  "still": "\/data\/upload\/1\/ddc2d508-X015.jpg",
+  "id": 2,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 2,
+  "created_at": "2026-03-26T21:14:46.009266Z",
+  "updated_at": "2026-03-26T21:14:46.009280Z",
+  "lead_time": 4.224
+},
+{
+  "still": "\/data\/upload\/1\/e3ea8c77-03.jpg",
+  "id": 3,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 3,
+  "created_at": "2026-03-26T21:15:05.846904Z",
+  "updated_at": "2026-03-26T21:15:05.846925Z",
+  "lead_time": 3.7
+},
+{
+  "still": "\/data\/upload\/1\/30d81519-The-Harder-They-Fall-17.jpg",
+  "id": 4,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 4,
+  "created_at": "2026-03-26T21:15:09.382697Z",
+  "updated_at": "2026-03-26T21:15:09.382725Z",
+  "lead_time": 2.333
+},
+{
+  "still": "\/data\/upload\/1\/93a64828-61-753.jpg",
+  "id": 5,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 5,
+  "created_at": "2026-03-26T21:15:13.084167Z",
+  "updated_at": "2026-03-26T21:15:13.084194Z",
+  "lead_time": 2.667
+},
+{
+  "still": "\/data\/upload\/1\/fe847255-Extremely-Wicked-005.jpg",
+  "id": 6,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 8,
+  "created_at": "2026-03-26T21:17:06.406682Z",
+  "updated_at": "2026-03-26T21:17:06.406704Z",
+  "lead_time": 31.084
+},
+{
+  "still": "\/data\/upload\/1\/6c79dac4-54-1140.jpg",
+  "id": 7,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 6,
+  "created_at": "2026-03-26T21:16:01.580456Z",
+  "updated_at": "2026-03-26T21:16:01.580478Z",
+  "lead_time": 2.55
+},
+{
+  "still": "\/data\/upload\/1\/e7797a7e-32-350.jpg",
+  "id": 8,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 7,
+  "created_at": "2026-03-26T21:16:34.175056Z",
+  "updated_at": "2026-03-26T21:16:34.175078Z",
+  "lead_time": 31.303
+},
+{
+  "still": "\/data\/upload\/1\/72dca25f-paradiselove024.jpg",
+  "id": 9,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 9,
+  "created_at": "2026-03-26T21:17:35.821429Z",
+  "updated_at": "2026-03-26T21:17:35.821457Z",
+  "lead_time": 23.22
+},
+{
+  "still": "\/data\/upload\/1\/637c89d6-10.jpg",
+  "id": 10,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 10,
+  "created_at": "2026-03-26T21:17:41.932554Z",
+  "updated_at": "2026-03-26T21:17:41.932580Z",
+  "lead_time": 5.167
+},
+{
+  "still": "\/data\/upload\/1\/2b5db76e-bluelamp025.jpg",
+  "id": 11,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 11,
+  "created_at": "2026-03-26T21:17:53.341998Z",
+  "updated_at": "2026-03-26T21:17:53.342020Z",
+  "lead_time": 10.42
+},
+{
+  "still": "\/data\/upload\/1\/d288c20d-all-or-nothing-001.jpg",
+  "id": 12,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 12,
+  "created_at": "2026-03-26T21:17:58.536572Z",
+  "updated_at": "2026-03-26T21:17:58.536611Z",
+  "lead_time": 3.796
+},
+{
+  "still": "\/data\/upload\/1\/f4516c1c-A-Winters-Tale-45.jpg",
+  "id": 13,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 13,
+  "created_at": "2026-03-26T21:18:02.100721Z",
+  "updated_at": "2026-03-26T21:18:02.100744Z",
+  "lead_time": 2.616
+},
+{
+  "still": "\/data\/upload\/1\/192e3b04-21.jpg",
+  "id": 14,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 14,
+  "created_at": "2026-03-26T21:18:07.816489Z",
+  "updated_at": "2026-03-26T21:18:07.816514Z",
+  "lead_time": 4.817
+},
+{
+  "still": "\/data\/upload\/1\/be80ac86-16.jpg",
+  "id": 15,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 15,
+  "created_at": "2026-03-26T21:18:11.782623Z",
+  "updated_at": "2026-03-26T21:18:11.782645Z",
+  "lead_time": 3.068
+},
+{
+  "still": "\/data\/upload\/1\/3867c880-32-1076.jpg",
+  "id": 16,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 16,
+  "created_at": "2026-03-26T21:18:18.792021Z",
+  "updated_at": "2026-03-26T21:18:18.792048Z",
+  "lead_time": 4.769
+},
+{
+  "still": "\/data\/upload\/1\/5a908913-The-Nowhere-Inn-019.jpg",
+  "id": 17,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 17,
+  "created_at": "2026-03-26T21:18:24.165869Z",
+  "updated_at": "2026-03-26T21:18:24.165893Z",
+  "lead_time": 4.333
+},
+{
+  "still": "\/data\/upload\/1\/fc0eb155-image013-11.jpg",
+  "id": 18,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 18,
+  "created_at": "2026-03-26T21:18:27.666374Z",
+  "updated_at": "2026-03-26T21:18:27.666399Z",
+  "lead_time": 2.584
+},
+{
+  "still": "\/data\/upload\/1\/26ae657e-Rye-Lane-15.jpg",
+  "id": 19,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 19,
+  "created_at": "2026-03-26T21:18:37.874534Z",
+  "updated_at": "2026-03-26T21:18:37.874554Z",
+  "lead_time": 9.27
+},
+{
+  "still": "\/data\/upload\/1\/e0518046-Censor-054.jpg",
+  "id": 20,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 20,
+  "created_at": "2026-03-26T21:18:55.973113Z",
+  "updated_at": "2026-03-26T21:18:55.973134Z",
+  "lead_time": 16.766
+},
+{
+  "still": "\/data\/upload\/1\/6c491b2c-lasthouse011.jpg",
+  "id": 21,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 21,
+  "created_at": "2026-03-26T21:19:01.983245Z",
+  "updated_at": "2026-03-26T21:19:01.983272Z",
+  "lead_time": 4.684
+},
+{
+  "still": "\/data\/upload\/1\/18734bd3-26.jpg",
+  "id": 22,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 22,
+  "created_at": "2026-03-26T21:19:06.132195Z",
+  "updated_at": "2026-03-26T21:19:06.132218Z",
+  "lead_time": 2.516
+},
+{
+  "still": "\/data\/upload\/1\/476e1fbb-61-676.jpg",
+  "id": 23,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 23,
+  "created_at": "2026-03-26T21:19:09.443704Z",
+  "updated_at": "2026-03-26T21:19:09.443722Z",
+  "lead_time": 2.378
+},
+{
+  "still": "\/data\/upload\/1\/40ae8d5f-songto062.jpg",
+  "id": 24,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 24,
+  "created_at": "2026-03-26T21:19:12.666332Z",
+  "updated_at": "2026-03-26T21:19:12.666357Z",
+  "lead_time": 1.75
+},
+{
+  "still": "\/data\/upload\/1\/3802be7c-Visitor-to-a-Museum-059.jpg",
+  "id": 25,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 25,
+  "created_at": "2026-03-26T21:19:15.797999Z",
+  "updated_at": "2026-03-26T21:19:15.798025Z",
+  "lead_time": 2.201
+},
+{
+  "still": "\/data\/upload\/1\/b2fcbd7c-51.jpg",
+  "id": 26,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 26,
+  "created_at": "2026-03-26T21:19:19.369501Z",
+  "updated_at": "2026-03-26T21:19:19.369521Z",
+  "lead_time": 2.685
+},
+{
+  "still": "\/data\/upload\/1\/a0b8aaa8-True-Lies-50.jpg",
+  "id": 27,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 27,
+  "created_at": "2026-03-26T21:19:30.071643Z",
+  "updated_at": "2026-03-26T21:19:30.071670Z",
+  "lead_time": 9.315
+},
+{
+  "still": "\/data\/upload\/1\/447e4a7e-ladybird023.jpg",
+  "id": 28,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 28,
+  "created_at": "2026-03-26T21:19:34.428050Z",
+  "updated_at": "2026-03-26T21:19:34.428078Z",
+  "lead_time": 3.348
+},
+{
+  "still": "\/data\/upload\/1\/59af2e14-dontbreathe013.jpg",
+  "id": 29,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 29,
+  "created_at": "2026-03-26T21:19:37.640861Z",
+  "updated_at": "2026-03-26T21:19:37.640880Z",
+  "lead_time": 2.345
+},
+{
+  "still": "\/data\/upload\/1\/6d533850-0225-1.jpg",
+  "id": 30,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 30,
+  "created_at": "2026-03-26T21:19:43.517383Z",
+  "updated_at": "2026-03-26T21:19:43.517407Z",
+  "lead_time": 4.434
+},
+{
+  "still": "\/data\/upload\/1\/1ece8bf1-22-1153.jpg",
+  "id": 31,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 31,
+  "created_at": "2026-03-26T21:19:54.602439Z",
+  "updated_at": "2026-03-26T21:19:54.602471Z",
+  "lead_time": 9.951
+},
+{
+  "still": "\/data\/upload\/1\/2b7a5d64-53.jpg",
+  "id": 32,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 32,
+  "created_at": "2026-03-26T21:20:15.555582Z",
+  "updated_at": "2026-03-26T21:20:15.555605Z",
+  "lead_time": 19.647
+},
+{
+  "still": "\/data\/upload\/1\/1dc04046-3810.jpg",
+  "id": 33,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 33,
+  "created_at": "2026-03-26T21:20:25.803110Z",
+  "updated_at": "2026-03-26T21:20:25.803131Z",
+  "lead_time": 5.736
+},
+{
+  "still": "\/data\/upload\/1\/29222c25-Like-Someone-In-Love-05.jpg",
+  "id": 34,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 34,
+  "created_at": "2026-03-26T21:20:31.399095Z",
+  "updated_at": "2026-03-26T21:20:31.399120Z",
+  "lead_time": 4.103
+},
+{
+  "still": "\/data\/upload\/1\/34930cc6-One-and-Four-27.jpg",
+  "id": 35,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 35,
+  "created_at": "2026-03-26T21:20:36.101753Z",
+  "updated_at": "2026-03-26T21:20:36.101773Z",
+  "lead_time": 2.62
+},
+{
+  "still": "\/data\/upload\/1\/fcd34307-quietplace031.jpg",
+  "id": 36,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 36,
+  "created_at": "2026-03-26T21:20:40.131110Z",
+  "updated_at": "2026-03-26T21:20:40.131132Z",
+  "lead_time": 2.183
+},
+{
+  "still": "\/data\/upload\/1\/83c1a705-48-999.jpg",
+  "id": 37,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 37,
+  "created_at": "2026-03-26T21:20:43.349928Z",
+  "updated_at": "2026-03-26T21:20:43.349952Z",
+  "lead_time": 1.949
+},
+{
+  "still": "\/data\/upload\/1\/3e03de48-25.jpg",
+  "id": 38,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 38,
+  "created_at": "2026-03-26T21:20:48.230734Z",
+  "updated_at": "2026-03-26T21:20:48.230759Z",
+  "lead_time": 1.966
+},
+{
+  "still": "\/data\/upload\/1\/a7ff2f1a-Vincent-Must-Die-26.jpg",
+  "id": 39,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 39,
+  "created_at": "2026-03-26T21:20:54.867089Z",
+  "updated_at": "2026-03-26T21:20:54.867109Z",
+  "lead_time": 5.827
+},
+{
+  "still": "\/data\/upload\/1\/96272d4a-3112.jpg",
+  "id": 40,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 40,
+  "created_at": "2026-03-26T21:20:59.127992Z",
+  "updated_at": "2026-03-26T21:20:59.128010Z",
+  "lead_time": 3.013
+},
+{
+  "still": "\/data\/upload\/1\/5c6c4bc1-Fiddler-on-the-Roof-08.jpg",
+  "id": 41,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 41,
+  "created_at": "2026-03-26T21:21:01.847698Z",
+  "updated_at": "2026-03-26T21:21:01.847725Z",
+  "lead_time": 2.012
+},
+{
+  "still": "\/data\/upload\/1\/c89b2779-45-2.jpg",
+  "id": 42,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 42,
+  "created_at": "2026-03-26T21:21:04.714099Z",
+  "updated_at": "2026-03-26T21:21:04.714122Z",
+  "lead_time": 2.066
+},
+{
+  "still": "\/data\/upload\/1\/6b2a521d-11.jpg",
+  "id": 43,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 43,
+  "created_at": "2026-03-26T21:21:07.664209Z",
+  "updated_at": "2026-03-26T21:21:07.664232Z",
+  "lead_time": 2.149
+},
+{
+  "still": "\/data\/upload\/1\/8eb564e7-Tiresia-026.jpg",
+  "id": 44,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 44,
+  "created_at": "2026-03-26T21:21:13.274532Z",
+  "updated_at": "2026-03-26T21:21:13.274549Z",
+  "lead_time": 4.329
+},
+{
+  "still": "\/data\/upload\/1\/de63603b-21-1141.jpg",
+  "id": 45,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 45,
+  "created_at": "2026-03-26T21:21:17.201789Z",
+  "updated_at": "2026-03-26T21:21:17.201805Z",
+  "lead_time": 2.979
+},
+{
+  "still": "\/data\/upload\/1\/3a33258f-Gemini-Man-032.jpg",
+  "id": 46,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 46,
+  "created_at": "2026-03-26T21:23:05.959041Z",
+  "updated_at": "2026-03-26T21:23:05.959056Z",
+  "lead_time": 107.739
+},
+{
+  "still": "\/data\/upload\/1\/25145060-14-102.jpg",
+  "id": 47,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 47,
+  "created_at": "2026-03-26T21:23:09.960733Z",
+  "updated_at": "2026-03-26T21:23:09.960754Z",
+  "lead_time": 3.115
+},
+{
+  "still": "\/data\/upload\/1\/81009c0a-Seven-Stages-008.jpg",
+  "id": 48,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 48,
+  "created_at": "2026-03-26T21:23:13.744148Z",
+  "updated_at": "2026-03-26T21:23:13.744173Z",
+  "lead_time": 2.264
+},
+{
+  "still": "\/data\/upload\/1\/ccd2431e-bloodblack005.jpg",
+  "id": 49,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 49,
+  "created_at": "2026-03-26T21:23:17.863281Z",
+  "updated_at": "2026-03-26T21:23:17.863303Z",
+  "lead_time": 3.263
+},
+{
+  "still": "\/data\/upload\/1\/fb80deef-Godzilla-Vs-Space-Godzilla-013.jpg",
+  "id": 50,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 50,
+  "created_at": "2026-03-26T21:23:21.567048Z",
+  "updated_at": "2026-03-26T21:23:21.567075Z",
+  "lead_time": 2.475
+},
+{
+  "still": "\/data\/upload\/1\/61431d1b-26-274.jpg",
+  "id": 51,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 51,
+  "created_at": "2026-03-26T21:23:26.332987Z",
+  "updated_at": "2026-03-26T21:23:26.333015Z",
+  "lead_time": 3.782
+},
+{
+  "still": "\/data\/upload\/1\/01883f23-Wildlife-050.jpg",
+  "id": 52,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 52,
+  "created_at": "2026-03-26T21:23:38.254108Z",
+  "updated_at": "2026-03-26T21:23:38.254134Z",
+  "lead_time": 10.133
+},
+{
+  "still": "\/data\/upload\/1\/a5c79ff2-Gigi042.jpg",
+  "id": 53,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 53,
+  "created_at": "2026-03-26T21:23:43.813281Z",
+  "updated_at": "2026-03-26T21:23:43.813302Z",
+  "lead_time": 2.365
+},
+{
+  "still": "\/data\/upload\/1\/20a5ba93-Summer-of-84-040.jpg",
+  "id": 54,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 54,
+  "created_at": "2026-03-26T21:23:47.864719Z",
+  "updated_at": "2026-03-26T21:23:47.864742Z",
+  "lead_time": 3.232
+},
+{
+  "still": "\/data\/upload\/1\/ddae0009-The-Driver-44.jpg",
+  "id": 55,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 55,
+  "created_at": "2026-03-26T21:23:50.632553Z",
+  "updated_at": "2026-03-26T21:23:50.632578Z",
+  "lead_time": 1.95
+},
+{
+  "still": "\/data\/upload\/1\/77222714-34.jpg",
+  "id": 56,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 56,
+  "created_at": "2026-03-26T21:24:03.494462Z",
+  "updated_at": "2026-03-26T21:24:03.494482Z",
+  "lead_time": 11.962
+},
+{
+  "still": "\/data\/upload\/1\/127176b5-In-Water-32.jpg",
+  "id": 57,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 57,
+  "created_at": "2026-03-26T21:24:06.468925Z",
+  "updated_at": "2026-03-26T21:24:06.468946Z",
+  "lead_time": 2.069
+},
+{
+  "still": "\/data\/upload\/1\/f6df775b-Southland-Tales-036.jpg",
+  "id": 58,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 58,
+  "created_at": "2026-03-26T21:24:09.763568Z",
+  "updated_at": "2026-03-26T21:24:09.763590Z",
+  "lead_time": 2.511
+},
+{
+  "still": "\/data\/upload\/1\/db4d6ab9-49-97.jpg",
+  "id": 59,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 59,
+  "created_at": "2026-03-26T21:24:13.419661Z",
+  "updated_at": "2026-03-26T21:24:13.419682Z",
+  "lead_time": 2.129
+},
+{
+  "still": "\/data\/upload\/1\/920429e3-Graduate-First-007.jpg",
+  "id": 60,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 60,
+  "created_at": "2026-03-26T21:24:16.466364Z",
+  "updated_at": "2026-03-26T21:24:16.466391Z",
+  "lead_time": 2.26
+},
+{
+  "still": "\/data\/upload\/1\/c6b0b400-House-of-Gucci-25.jpg",
+  "id": 61,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 61,
+  "created_at": "2026-03-26T21:24:22.779760Z",
+  "updated_at": "2026-03-26T21:24:39.875765Z",
+  "lead_time": 22.256999999999998
+},
+{
+  "still": "\/data\/upload\/1\/9f68666b-44-2.jpg",
+  "id": 62,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 62,
+  "created_at": "2026-03-26T21:24:43.911210Z",
+  "updated_at": "2026-03-26T21:24:43.911222Z",
+  "lead_time": 2.648
+},
+{
+  "still": "\/data\/upload\/1\/9c0b537c-15.jpg",
+  "id": 63,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 63,
+  "created_at": "2026-03-26T21:24:46.625182Z",
+  "updated_at": "2026-03-26T21:24:46.625201Z",
+  "lead_time": 1.947
+},
+{
+  "still": "\/data\/upload\/1\/15a39b24-36-1283.jpg",
+  "id": 64,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 64,
+  "created_at": "2026-03-26T21:24:49.672905Z",
+  "updated_at": "2026-03-26T21:24:49.672927Z",
+  "lead_time": 2.197
+},
+{
+  "still": "\/data\/upload\/1\/d5e6a11e-Cold-War-034.jpg",
+  "id": 65,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 65,
+  "created_at": "2026-03-26T21:24:53.475877Z",
+  "updated_at": "2026-03-26T21:24:53.475900Z",
+  "lead_time": 2.893
+},
+{
+  "still": "\/data\/upload\/1\/f35571e3-smokin024.jpg",
+  "id": 66,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 66,
+  "created_at": "2026-03-26T21:24:56.950601Z",
+  "updated_at": "2026-03-26T21:24:56.950626Z",
+  "lead_time": 2.567
+},
+{
+  "still": "\/data\/upload\/1\/a33c735a-Lady-In-The-Water-019.jpg",
+  "id": 67,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 67,
+  "created_at": "2026-03-26T21:25:06.615322Z",
+  "updated_at": "2026-03-26T21:25:06.615351Z",
+  "lead_time": 3.749
+},
+{
+  "still": "\/data\/upload\/1\/3d601f0e-seaoftrees011.jpg",
+  "id": 68,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 68,
+  "created_at": "2026-03-26T21:25:09.577333Z",
+  "updated_at": "2026-03-26T21:25:09.577352Z",
+  "lead_time": 2.231
+},
+{
+  "still": "\/data\/upload\/1\/c3704c3a-Desert-Fury-36.jpg",
+  "id": 69,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 69,
+  "created_at": "2026-03-26T21:25:12.811343Z",
+  "updated_at": "2026-03-26T21:25:12.811369Z",
+  "lead_time": 2.381
+},
+{
+  "still": "\/data\/upload\/1\/fc18ad61-The-Age-of-Innocence-039.jpg",
+  "id": 70,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 70,
+  "created_at": "2026-03-26T21:25:15.930076Z",
+  "updated_at": "2026-03-26T21:25:15.930100Z",
+  "lead_time": 2.185
+},
+{
+  "still": "\/data\/upload\/1\/b6178a63-The-Exorcist-3-035.jpg",
+  "id": 71,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 71,
+  "created_at": "2026-03-26T21:25:25.902398Z",
+  "updated_at": "2026-03-26T21:25:25.902422Z",
+  "lead_time": 8.255
+},
+{
+  "still": "\/data\/upload\/1\/85026508-Zama_001.jpg",
+  "id": 72,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 72,
+  "created_at": "2026-03-26T21:25:30.061657Z",
+  "updated_at": "2026-03-26T21:25:30.061690Z",
+  "lead_time": 2.167
+},
+{
+  "still": "\/data\/upload\/1\/4ce194ce-American-Beauty.jpg",
+  "id": 73,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 73,
+  "created_at": "2026-03-26T21:25:33.664268Z",
+  "updated_at": "2026-03-26T21:25:33.664292Z",
+  "lead_time": 2.267
+},
+{
+  "still": "\/data\/upload\/1\/762881e8-Narc-030.jpg",
+  "id": 74,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 74,
+  "created_at": "2026-03-26T21:25:39.815862Z",
+  "updated_at": "2026-03-26T21:25:39.815892Z",
+  "lead_time": 4.585
+},
+{
+  "still": "\/data\/upload\/1\/11c389f2-Microhabitat-05.jpg",
+  "id": 75,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 75,
+  "created_at": "2026-03-26T21:25:46.138697Z",
+  "updated_at": "2026-03-26T21:25:46.138719Z",
+  "lead_time": 4.487
+},
+{
+  "still": "\/data\/upload\/1\/6a7779fb-54-668.jpg",
+  "id": 76,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 76,
+  "created_at": "2026-03-26T21:25:50.529026Z",
+  "updated_at": "2026-03-26T21:25:50.529049Z",
+  "lead_time": 2.219
+},
+{
+  "still": "\/data\/upload\/1\/5ee5655c-Quills-08.jpg",
+  "id": 77,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 77,
+  "created_at": "2026-03-26T21:25:59.034721Z",
+  "updated_at": "2026-03-26T21:25:59.034742Z",
+  "lead_time": 7.718
+},
+{
+  "still": "\/data\/upload\/1\/2f82d63e-My-Summer-of-Love-016.jpg",
+  "id": 78,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 78,
+  "created_at": "2026-03-26T21:26:02.211473Z",
+  "updated_at": "2026-03-26T21:26:02.211501Z",
+  "lead_time": 1.733
+},
+{
+  "still": "\/data\/upload\/1\/67ba176e-Ghost-in-the-Shell-1995-023.jpg",
+  "id": 79,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 79,
+  "created_at": "2026-03-26T21:26:06.316031Z",
+  "updated_at": "2026-03-26T21:26:06.316058Z",
+  "lead_time": 2.318
+},
+{
+  "still": "\/data\/upload\/1\/dffd7b26-One-False-Move-49.jpg",
+  "id": 80,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 80,
+  "created_at": "2026-03-26T21:26:10.847705Z",
+  "updated_at": "2026-03-26T21:26:10.847728Z",
+  "lead_time": 2.133
+},
+{
+  "still": "\/data\/upload\/1\/11230722-Beauty-and-the-Beast-043.jpg",
+  "id": 81,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 81,
+  "created_at": "2026-03-26T21:26:14.214804Z",
+  "updated_at": "2026-03-26T21:26:14.214830Z",
+  "lead_time": 2.185
+},
+{
+  "still": "\/data\/upload\/1\/c774486b-Shadows-023.jpg",
+  "id": 82,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 82,
+  "created_at": "2026-03-26T21:26:16.778040Z",
+  "updated_at": "2026-03-26T21:26:16.778060Z",
+  "lead_time": 1.765
+},
+{
+  "still": "\/data\/upload\/1\/1757b4ec-53-421.jpg",
+  "id": 83,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 83,
+  "created_at": "2026-03-26T21:26:20.898282Z",
+  "updated_at": "2026-03-26T21:26:20.898301Z",
+  "lead_time": 3.301
+},
+{
+  "still": "\/data\/upload\/1\/ea4b1a33-22.jpg",
+  "id": 84,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 84,
+  "created_at": "2026-03-26T21:26:24.647123Z",
+  "updated_at": "2026-03-26T21:26:24.647146Z",
+  "lead_time": 2.85
+},
+{
+  "still": "\/data\/upload\/1\/dbd9fa1b-Litan-08.jpg",
+  "id": 85,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 85,
+  "created_at": "2026-03-26T21:26:27.858736Z",
+  "updated_at": "2026-03-26T21:26:27.858758Z",
+  "lead_time": 2.332
+},
+{
+  "still": "\/data\/upload\/1\/a929e08b-58.jpg",
+  "id": 86,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 86,
+  "created_at": "2026-03-26T21:26:31.171411Z",
+  "updated_at": "2026-03-26T21:26:31.171430Z",
+  "lead_time": 2.478
+},
+{
+  "still": "\/data\/upload\/1\/5b046a39-Blonde-29.jpg",
+  "id": 87,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 87,
+  "created_at": "2026-03-26T21:26:35.296424Z",
+  "updated_at": "2026-03-26T21:26:35.296446Z",
+  "lead_time": 2.965
+},
+{
+  "still": "\/data\/upload\/1\/3d81d7d7-Killers-of-the-Flower-Moon-03.jpg",
+  "id": 88,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 88,
+  "created_at": "2026-03-26T21:26:39.247310Z",
+  "updated_at": "2026-03-26T21:26:39.247334Z",
+  "lead_time": 2.983
+},
+{
+  "still": "\/data\/upload\/1\/99f39a91-Gun-Crazy-15.jpg",
+  "id": 89,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 89,
+  "created_at": "2026-03-26T21:26:56.174910Z",
+  "updated_at": "2026-03-26T21:26:56.174928Z",
+  "lead_time": 16.15
+},
+{
+  "still": "\/data\/upload\/1\/d75e2384-43-365.jpg",
+  "id": 90,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 90,
+  "created_at": "2026-03-26T21:26:59.266313Z",
+  "updated_at": "2026-03-26T21:26:59.266339Z",
+  "lead_time": 2.349
+},
+{
+  "still": "\/data\/upload\/1\/0744ffff-Men-in-Black-25.jpg",
+  "id": 91,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 91,
+  "created_at": "2026-03-26T21:27:04.612019Z",
+  "updated_at": "2026-03-26T21:27:04.612038Z",
+  "lead_time": 3.332
+},
+{
+  "still": "\/data\/upload\/1\/96eff92f-scarecrow002.jpg",
+  "id": 92,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 92,
+  "created_at": "2026-03-26T21:27:08.011852Z",
+  "updated_at": "2026-03-26T21:27:08.011875Z",
+  "lead_time": 1.865
+},
+{
+  "still": "\/data\/upload\/1\/cfef7596-47.jpg",
+  "id": 93,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 93,
+  "created_at": "2026-03-26T21:27:10.297687Z",
+  "updated_at": "2026-03-26T21:27:10.297711Z",
+  "lead_time": 1.478
+},
+{
+  "still": "\/data\/upload\/1\/f1ac231c-02-179.jpg",
+  "id": 94,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 94,
+  "created_at": "2026-03-26T21:27:12.779951Z",
+  "updated_at": "2026-03-26T21:27:12.779973Z",
+  "lead_time": 1.628
+},
+{
+  "still": "\/data\/upload\/1\/17346fad-Pass-Over-030.jpg",
+  "id": 95,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 95,
+  "created_at": "2026-03-26T21:27:17.024238Z",
+  "updated_at": "2026-03-26T21:27:17.024263Z",
+  "lead_time": 3.366
+},
+{
+  "still": "\/data\/upload\/1\/0be80090-Decoder-044.jpg",
+  "id": 96,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 96,
+  "created_at": "2026-03-26T21:27:20.748235Z",
+  "updated_at": "2026-03-26T21:27:20.748263Z",
+  "lead_time": 2.081
+},
+{
+  "still": "\/data\/upload\/1\/bc7afd64-9songsl023.jpg",
+  "id": 97,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 97,
+  "created_at": "2026-03-26T21:27:23.370879Z",
+  "updated_at": "2026-03-26T21:27:23.370897Z",
+  "lead_time": 1.774
+},
+{
+  "still": "\/data\/upload\/1\/d2edadce-Renfield-02.jpg",
+  "id": 98,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 98,
+  "created_at": "2026-03-26T21:27:26.496725Z",
+  "updated_at": "2026-03-26T21:27:26.496746Z",
+  "lead_time": 2.033
+},
+{
+  "still": "\/data\/upload\/1\/0b89bea5-Life-and-Nothing-More-41.jpg",
+  "id": 99,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 99,
+  "created_at": "2026-03-26T21:27:30.365867Z",
+  "updated_at": "2026-03-26T21:27:30.365889Z",
+  "lead_time": 2.984
+},
+{
+  "still": "\/data\/upload\/1\/d342f3bf-45-1.jpg",
+  "id": 100,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 100,
+  "created_at": "2026-03-26T21:27:34.728228Z",
+  "updated_at": "2026-03-26T21:27:34.728256Z",
+  "lead_time": 2.864
+}
+]
