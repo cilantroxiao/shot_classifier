@@ -67,6 +67,8 @@ def main():
     X = np.array(X)
     y = np.array(y)
 
+    W = np.zeros(())
+
 if __name__ == "__main__":
     main()
 
