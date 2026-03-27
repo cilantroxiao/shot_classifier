@@ -4,8 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
-with open("training_labels_clean.json", "r", encoding="utf-8") as f:
-    training_data = json.load(f)
 
 labels_map = {
     "close_up" : 0,
@@ -55,22 +53,21 @@ def feature_extract(img):
         face_frac = 0.0
     return [edge_density, avg_bright, face_frac]
 
-X = []
-y = []
+def main():
+    with open("training_labels_clean.json", "r", encoding="utf-8") as f:
+        training_data = json.load(f)
+    X = []
+    y = []
+    for item in training_data:
+        img = item["file_name"]
+        x_i = feature_extract(img)
+        y_i = labels_map[item["shot_type"]] #y__binary = np.array([1 if label==0 else 0 for label in y])
+        X.append(x_i)
+        y.append(y_i)
+    X = np.array(X)
+    y = np.array(y)
 
-for item in training_data:
-    img = item["file_name"]
-    
-    x_i = feature_extract(img)
-    y_i = labels_map[item["shot_type"]] #y__binary = np.array([1 if label==0 else 0 for label in y])
-
-    X.append(x_i)
-    y.append(y_i)
-
-X = np.array(X)
-y = np.array(y)
-
-print(X)
-print(y)
+if __name__ == "__main__":
+    main()
 
 
