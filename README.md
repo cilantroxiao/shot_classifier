@@ -2,6 +2,7 @@
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/134f8c92-58a7-40d2-a8d8-9c89ff11d1a2" />
 </p>
+  
   ### Project goal
   Who doesn't love going to the movies? The goal of this project was to predict a simple, measurable property of film frames by shot type and correlate that to narrative structure. By classifying shots as close-up, medium, or wide, I aimed to quantify film directors' visual storytelling patterns.
 
