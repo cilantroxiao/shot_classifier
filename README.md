@@ -15,7 +15,7 @@
 3 simple, measuarable features were extracted from each frame:
 - Edge density: the approximate amount of visual detail in each frame
 - Face fraction: the proportion of the frame occupied by a face
-- Average brightness: mean pixel intensity\
+- Average brightness: mean pixel intensity
 
 These features were used as inputs for a multiclass logistic regression model.
 
@@ -23,7 +23,7 @@ These features were used as inputs for a multiclass logistic regression model.
 - Algorithm: Multiclass logistic regression
 - Training: Gradient descent optimization
 - Regularization: L2 regularization
-- Objective: Predict shot type based on visual features \
+- Objective: Predict shot type based on visual features
 
 Implementation of multiclass logistic regression was taken from this article: https://medium.com/data-science/multiclass-logistic-regression-from-scratch-9cc0007da372
 
