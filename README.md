@@ -44,6 +44,7 @@ Machine learning still struggles with understanding narrative structure of long-
 <p align="center">
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6b01f89b-df21-4855-9c47-59520b1aa7d9" />
 </p>
+
 ### Dependencies
 - Python 3.x
 - NumPy
