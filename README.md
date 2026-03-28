@@ -20,7 +20,9 @@ These features were used as inputs for a multiclass logistic regression model.
 - Algorithm: Multiclass logistic regression
 - Training: Gradient descent optimization
 - Regularization: L2 regularization
--   Objective: Predict shot type based on visual features
+- Objective: Predict shot type based on visual features \
+
+Implementation of multiclass logistic regression was taken from this article: https://medium.com/data-science/multiclass-logistic-regression-from-scratch-9cc0007da372
 
 ### Dependencies
 - Python 3.x
