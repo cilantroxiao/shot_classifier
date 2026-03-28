@@ -4,7 +4,7 @@
 </p>
   
   ### Project goal
-  Who doesn't love going to the movies? The goal of this project was to predict a simple, measurable property of film frames by shot type and correlate that to narrative structure. By classifying shots as close-up, medium, or wide, I aimed to quantify film directors' visual storytelling patterns.
+  Who doesn't love going to the movies? So what if machines could watch movies too. The goal of this project was to predict a simple, measurable property of film frames by shot type and correlate that to narrative structure. By classifying shots as close-up, medium, or wide, I aimed to quantify film directors' visual storytelling patterns.
 
   ### Data
   - 100 training data frames were generated randomly from film-grab.com by clicking "Random Post" without repeats.
