@@ -3,17 +3,18 @@ import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-
+from scipy.special import softmax
 
 labels_map = {
     "close_up" : 0,
     "medium" : 1,
     "wide" : 2
 }
+
 def feature_extract(img):
     root = os.getcwd()
     img_path = os.path.join(root, 'data', 'training_data', img)
-    print(f"Extracting featuress from {img_path}")
+    print(f"Extracting features from {img_path}")
 
     frame = cv.imread(img_path)
     gray_frame = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
@@ -54,7 +55,7 @@ def feature_extract(img):
     return [edge_density, avg_bright, face_frac]
 
 def main():
-    with open("training_labels_clean.json", "r", encoding="utf-8") as f:
+    with open("./labels/training_labels_clean.json", "r", encoding="utf-8") as f:
         training_data = json.load(f)
     X = []
     y = []
@@ -67,7 +68,15 @@ def main():
     X = np.array(X)
     y = np.array(y)
 
-    W = np.zeros(())
+    num_features = X.shape[1]
+    num_classes = len(labels_map)
+    W = 0.01 * np.random.randn(num_features, num_classes)
+    Z = -X @ W
+
+    #rowwise softmax
+    P = softmax(Z, axis=1)
+    print(sum(P[0]))
+
 
 if __name__ == "__main__":
     main()
