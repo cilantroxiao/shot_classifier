@@ -73,6 +73,7 @@ def one_hot_encode(y, num_classes):
 def compute_loss(X, Y, W, b, mu):
     # Equation take from 
     # https://medium.com/data-science/multiclass-logistic-regression-from-scratch-9cc0007da372
+    # modified with chatGPT
     # Added l2 regularization and bias term
     Z = X @ W + b
     N = X.shape[0]
